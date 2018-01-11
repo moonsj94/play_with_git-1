@@ -11,4 +11,4 @@
 
 
 ### Picture of My Favorite Teams
-![My G](man u picture.jpg)
+![My G](manupic.jpg)
